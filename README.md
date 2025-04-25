@@ -2,13 +2,15 @@
 
 GUI for the seabreeze python library. Tested with Maya2000 spectrometer.
 
+![screenshot](screenshot.png "Screenshot")
+
 ## Keyboard shortcuts
 
-`B` - Substract background
-`K` - Keep current spectrum in the background
-`C` - Clear all background spectra
-`Ctrl + O` - Open spectrum
-`Ctrl + S` - Save spectrum
+- `B` - Substract background
+- `K` - Keep current spectrum in the background
+- `C` - Clear all background spectra
+- `Ctrl + O` - Open spectrum
+- `Ctrl + S` - Save spectrum
 
 ## seabreezeQt.py
 
